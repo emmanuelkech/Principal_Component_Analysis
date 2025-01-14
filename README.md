@@ -1,5 +1,4 @@
 # Principal Component Analysis
-*BAN6420 Module 5 Milestone Assignment*
 
 ## Overview
 This project aims to develop a model to identify essential variables for securing donor funding at the Anderson Cancer Center. Principal Component Analysis (PCA) is used for dimensionality reduction, and a logistic regression model is implemented for prediction.
